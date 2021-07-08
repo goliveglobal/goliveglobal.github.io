@@ -1,0 +1,2 @@
+(self.webpackChunkgolive_pe=self.webpackChunkgolive_pe||[]).push([[633],{111:function(e,t,l){"use strict";l.r(t);var n=l(7294);t.default=function(e){var t=e.pageContext;console.log("page context",t);var l=t.product;return n.createElement("div",null,n.createElement("h1",null,l.title),n.createElement("div",null,l.description))}}}]);
+//# sourceMappingURL=component---src-templates-product-js-36b1ceba280d916e4466.js.map
