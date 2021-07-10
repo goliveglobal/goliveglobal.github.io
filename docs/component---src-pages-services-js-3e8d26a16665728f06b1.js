@@ -1,0 +1,2 @@
+(self.webpackChunkgolive_pe=self.webpackChunkgolive_pe||[]).push([[88],{2953:function(e,n,t){"use strict";t.r(n),t.d(n,{default:function(){return r}});var u=t(7294);function r(e){return u.createElement(u.Fragment,null)}}}]);
+//# sourceMappingURL=component---src-pages-services-js-3e8d26a16665728f06b1.js.map

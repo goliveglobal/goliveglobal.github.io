@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://golive.pe/./src/pages/services.js"],"names":["Services","props"],"mappings":"qKAEe,SAASA,EAASC,GAC/B,OAAO","file":"component---src-pages-services-js-3e8d26a16665728f06b1.js","sourcesContent":["import React from \"react\";\r\n\r\nexport default function Services(props) {\r\n  return <></>;\r\n}\r\n"],"sourceRoot":""}
